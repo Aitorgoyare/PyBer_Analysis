@@ -26,4 +26,4 @@ Create a summary DataFrame of rideshare data by city type. Using Pandas and Matp
 
 ## Recommendations to the CEO
 
-- Offer incentives to drivers in rural areas to increase the number of drivers in order to increase market share.
+- Offer incentives to drivers in rural areas in order to get more drivers to sign up for the program and grow market share in rural areas.
